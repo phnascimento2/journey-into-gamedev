@@ -1,0 +1,2 @@
+# .gitattributes
+*.cs    text diff=csharp

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iK65PHeoQeUWRKv7iZsczQg4wkQEFtb6yS/o7H7qocrVZKs6CxjfnIyLypbjxNqN0Sf5RkXvaI7yH2Whe91u0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo\\git-repos\\csharp-projects\\journey-into-gamedev\\aGameWithNoName\\aGameWithNoName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Paulo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
